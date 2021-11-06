@@ -1,0 +1,18 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+.jumbotron {
+    background-image: url("../images/jumbotron.PNG");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.belly-bg {
+    background-color: #225ea8 
+}
+
+.header-font {
+    font-family: 'Zen Antique', serif;
+}
